@@ -1,6 +1,6 @@
 package p
 
-//go:generate implement-group-interface -f example.go
+//go:generate group-interface -f example.go
 
 type IPv4 [4]byte
 type IPv6 [16]byte

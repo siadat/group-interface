@@ -1,3 +1,3 @@
-module github.com/siadat/implement-group-interface
+module github.com/siadat/group-interface
 
 go 1.14
